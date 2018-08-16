@@ -1,6 +1,6 @@
 # Airport Challenge Revisited
 
-[Specification](#spec) | [Quickstart](#quickstart) | [Tests](#tests) | [User Stories](#stories) | [Sample Output](#sample-output)
+[Specification](#spec) | [Quick Start](#quickstart) | [Tests](#tests) | [User Stories](#stories) | [Sample Output](#sample-output)
 
 ## Specification
 <a id="spec"></a>
@@ -9,7 +9,7 @@ Revisiting Makers Academy's first weekend challenge:
 We have a request from a client to write the software to control the flow of planes at an airport. The planes can land and take off provided that the weather is sunny. Occasionally it may be stormy, in which case no planes can land or take off.
 ```
 
-## Quickstart
+## Quick Start
 <a id="quickstart"></a>
 - Clone the repository
 - Navigate to the project directory and run ```bundle install``` to install dependencies

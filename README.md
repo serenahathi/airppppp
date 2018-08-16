@@ -5,9 +5,9 @@
 ## Specification
 <a id="spec"></a>
 Revisiting Makers Academy's first weekend challenge:
-```
+
 We have a request from a client to write software to control the flow of planes at an airport. The planes can land and take off provided that the weather is sunny. Occasionally it may be stormy, in which case no planes can land or take off.
-```
+
 
 ## Quick Start
 <a id="quickstart"></a>
